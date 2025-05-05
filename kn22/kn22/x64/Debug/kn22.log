@@ -1,0 +1,4 @@
+﻿  kn22.cpp
+C:\Users\vlado\OneDrive\Документи\Hiik\kn22\kn22\kn22.cpp(118,29): warning C4312: приведение типов: преобразование из "int" в "HMENU" большего размера
+C:\Users\vlado\OneDrive\Документи\Hiik\kn22\kn22\kn22.cpp(203,23): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+  kn22.vcxproj -> C:\Users\vlado\OneDrive\Документи\Hiik\kn22\x64\Debug\kn22.exe
